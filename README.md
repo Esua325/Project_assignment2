@@ -13,7 +13,7 @@ Once the program starts, you must choose one of two ways to generate your text:
 | Method | Instruction |
 |---|---|
 | 1 - Manual | Type your text line by line. To stop and save, type END on a new line and press Enter. |
-| 2 - URL Fetch | Paste a full URL (e.g., https://www.google.com). The program will download the source text of that page.
+| 2 - URL Fetch | Paste a full URL. The program will download the source text of that page.
 
 4. Saving Your File
 After the text is captured, the program will ask for two pieces of information:
