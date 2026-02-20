@@ -24,3 +24,14 @@ After the text is captured, the program will ask for two pieces of information:
  * Invalid Choice: If you enter a number other than 1 or 2, the program will terminate.
  * URL Errors: Ensure the URL starts with http:// or https://.
  * File Errors: If you provide a folder path that does not exist or is "read-only," the program will display a "File path not found" error.
+
+Screenshots: The code running:
+<img src="bb.png" width= "350" height= "75%">
+<br>
+<br>
+<br>
+The output:
+<img src="a.png" width= "350" height= "65%">
+<br>
+<br>
+<br>
