@@ -26,7 +26,7 @@ After the text is captured, the program will ask for two pieces of information:
  * File Errors: If you provide a folder path that does not exist or is "read-only," the program will display a "File path not found" error.
 
 Screenshots: The code running:
-<img src="bb.png" width= "350" height= "75%">
+<img src="bb.png" width= "350" height= "90%">
 <br>
 <br>
 <br>
